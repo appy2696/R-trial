@@ -1,0 +1,2 @@
+# R-trial
+learning R
